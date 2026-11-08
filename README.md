@@ -28,16 +28,15 @@ I made this because I am very fond of learning Morse code. I used to know it, bu
 
 
 
-[table.html](https://github.com/user-attachments/files/34526145/table.html)
 <style>
-#tz-z373pu .tableizer-table {
+#tz-mr49th .tableizer-table {
   border-collapse: collapse;
   width: auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   color: #3f3f46;
   font-size: 12px;
 }
-#tz-z373pu .tableizer-table th {
+#tz-mr49th .tableizer-table th {
   padding: 12px 22px;
   text-align: left;
   font-weight: 600;
@@ -46,15 +45,15 @@ I made this because I am very fond of learning Morse code. I used to know it, bu
   color: #18181b;
   border-bottom: 2px solid #18181b;
 }
-#tz-z373pu .tableizer-table td {
+#tz-mr49th .tableizer-table td {
   padding: 12px 22px;
   text-align: left;
   color: #3f3f46;
   border-bottom: 1px solid #e8e8e8;
 }
-#tz-z373pu .tableizer-table .tz-right { text-align: right; }
+#tz-mr49th .tableizer-table .tz-right { text-align: right; }
 </style>
-<div id="tz-z373pu" class="tableizer-root">
+<div id="tz-mr49th" class="tableizer-root">
 <table class="tableizer-table">
   <thead>
     <tr>
@@ -71,7 +70,7 @@ I made this because I am very fond of learning Morse code. I used to know it, bu
     </tr>
     <tr>
       <td>pcb</td>
-      <td class="tz-right">0.5</td>
+      <td class="tz-right">4.1</td>
       <td>https://cart.jlcpcb.com/shopcart/cart/</td>
     </tr>
     <tr>
@@ -94,6 +93,27 @@ I made this because I am very fond of learning Morse code. I used to know it, bu
       <td class="tz-right">3.5</td>
       <td>https://www.lcsc.com/product-detail/C318884.html?s_z=n_q_C318884&amp;globalKeyword=C318884</td>
     </tr>
+    <tr>
+      <td>subtotal</td>
+      <td class="tz-right">37.6</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>total (including shipping and tax)</td>
+      <td class="tz-right">71.8</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>total (with prime and shipping lcsc with jlc order)</td>
+      <td class="tz-right">64.5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>subtract from inventory</td>
+      <td class="tz-right">42.5</td>
+      <td>m4 heat insert, m4 button head</td>
+    </tr>
   </tbody>
 </table>
+</div>
 </div>
