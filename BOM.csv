@@ -1,0 +1,9 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes
+seed studio mcu,Part,,,10.00,https://www.amazon.com/dp/B0B94JZ2YF,,Grant,
+pcb,PCB,,,4.10,https://cart.jlcpcb.com/shopcart/cart/,,Grant,
+oled,Part,,,10.00,https://amazon.com/gp/product/B0FSRQG23K,,Grant,amazon.com/gp/product/B0FSRQG23K
+m4 heat insert,Part,,,10.00,https://www.amazon.com/KADRICK-150PCS-Inserts-5-5mm-Insert/dp/B0FD89Y73F,,Grant,
+m4 button head,Part,,,10.00,https://www.amazon.com/gp/product/B0DCVVYCS8/ref=ewc_pr_img_2?smid=AU4U01987UNZX&th=1,,Grant,
+button,Part,,,3.50,https://www.lcsc.com/product-detail/C318884.html?s_z=n_q_C318884&globalKeyword=C318884,,Grant,
+3d print,3D printed,,,8.00,https://hackclub.slack.com/archives/D0CFQLXBQ1G/p1794022484778129,,Grant,
+Total,,,,55.60,,,,
