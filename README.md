@@ -1,4 +1,4 @@
-# Morse-code-decoder
+<img width="948" height="292" alt="image" src="https://github.com/user-attachments/assets/f6b76cd5-2bce-4cf7-9801-590cfa1607f5" /># Morse-code-decoder
 
 
 
@@ -23,85 +23,14 @@ I made this because I am very fond of learning Morse code. I used to know it, bu
 
 
 
+name | price |	link
+----------------------
+seed studio mcu |	10 |	https://www.amazon.com/dp/B0B94JZ2YF
+pcb	4.1	https://cart.jlcpcb.com/shopcart/cart/
+oled	10	amazon.com/gp/product/B0FSRQG23K
+m4 heat insert	10	https://www.amazon.com/KADRICK-150PCS-Inserts-5-5mm-Insert/dp/B0FD89Y73F
+m4 button head	10	https://www.amazon.com/gp/product/B0DCVVYCS8/ref=ewc_pr_img_2?smid=AU4U01987UNZX&th=1
+button	3.5	https://www.lcsc.com/product-detail/C318884.html?s_z=n_q_C318884&globalKeyword=C318884
+total	71.8	
 
 
-
-
-<style>
-#tz-drkv03 .tableizer-table {
-  border-collapse: collapse;
-  width: auto;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  color: #3f3f46;
-  font-size: 12px;
-}
-#tz-drkv03 .tableizer-table th {
-  padding: 12px 22px;
-  text-align: left;
-  font-weight: 600;
-  font-size: 12px;
-  background-color: transparent;
-  color: #18181b;
-  border-bottom: 2px solid #18181b;
-}
-#tz-drkv03 .tableizer-table td {
-  padding: 12px 22px;
-  text-align: left;
-  color: #3f3f46;
-  border-bottom: 1px solid #e8e8e8;
-}
-#tz-drkv03 .tableizer-table .tz-right { text-align: right; }
-</style>
-<div id="tz-drkv03" class="tableizer-root">
-<table class="tableizer-table">
-  <thead>
-    <tr>
-      <th>name</th>
-      <th class="tz-right">cost excl.tax&amp;ship</th>
-      <th>link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>seed studio mcu</td>
-      <td class="tz-right">10.0</td>
-      <td>https://www.amazon.com/dp/B0B94JZ2YF</td>
-    </tr>
-    <tr>
-      <td>pcb</td>
-      <td class="tz-right">4.1</td>
-      <td>https://cart.jlcpcb.com/shopcart/cart/</td>
-    </tr>
-    <tr>
-      <td>oled</td>
-      <td class="tz-right">10.0</td>
-      <td>amazon.com/gp/product/B0FSRQG23K</td>
-    </tr>
-    <tr>
-      <td>m4 heat insert</td>
-      <td class="tz-right">10.0</td>
-      <td>https://www.amazon.com/KADRICK-150PCS-Inserts-5-5mm-Insert/dp/B0FD89Y73F</td>
-    </tr>
-    <tr>
-      <td>m4 button head</td>
-      <td class="tz-right">10.0</td>
-      <td>https://www.amazon.com/gp/product/B0DCVVYCS8/ref=ewc_pr_img_2?smid=AU4U01987UNZX&amp;th=1</td>
-    </tr>
-    <tr>
-      <td>button</td>
-      <td class="tz-right">3.5</td>
-      <td>https://www.lcsc.com/product-detail/C318884.html?s_z=n_q_C318884&amp;globalKeyword=C318884</td>
-    </tr>
-    <tr>
-      <td>subtotal</td>
-      <td class="tz-right">37.6</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>total (including shipping and tax)</td>
-      <td class="tz-right">71.8</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-</div>
