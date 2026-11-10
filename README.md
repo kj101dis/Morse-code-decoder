@@ -32,4 +32,4 @@ name | price |	link
 | button |	3.5 |	https://www.lcsc.com/product-detail/C318884.html?s_z=n_q_C318884&globalKeyword=C318884
 | total	71.8	|
 
-
+https://cad.onshape.com/documents/1ea3237e61e7090dcc2f3aaa/w/9ef3d605a46f9dd758cf2261/e/5b610cd25bbbc5398fb0b3de
